@@ -5,3 +5,4 @@ function helloAdd( num1,num2 )
 end
 
 local num = getNumber(10,20)
+print("hello lua")
